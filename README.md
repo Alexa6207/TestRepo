@@ -14,9 +14,7 @@ The AxBoard uses some of the following hardware for displaying information:
 * PiPlate 2x2 LCD
 * iUniker 2.2 inch Screen with CNC Case
 
-
-
 ## Software libraries/dependencies
-Pygame
-Adafruit Trellis Library
+* Pygame
+* Adafruit Trellis Library
 
